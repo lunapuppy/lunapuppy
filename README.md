@@ -4,7 +4,7 @@
 ✉️ You can message me on discord (`@lunathepuppygirl`) or using the email [lunapuppygirl@proton.me](mailto:lunapuppygirl@proton.me)  
        
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -74,5 +74,5 @@ Linux                    2 hrs 6 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/lunapuppy/lunapuppy/master/assets/bar_graph.png)
 
 
- Last Updated on 26/03/2026 20:02:45 UTC
+ Last Updated on 27/03/2026 20:01:06 UTC
 <!--END_SECTION:waka-->
