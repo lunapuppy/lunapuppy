@@ -16,26 +16,24 @@
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 28 mins       ████████████████░░░░░░░░░   64.71 % 
-Java                     1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Python                   4 hrs 28 mins       ██████████████████████░░░   86.30 % 
+Text                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+textmate                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 53 mins       ██████████████████░░░░░░░   70.58 % 
-IntelliJ IDEA            2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-DataSpell                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+PyCharm                  4 hrs 53 mins       ████████████████████████░   94.13 % 
+IntelliJ IDEA            18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🐱‍💻 Projects: 
-discord-favorite-gif-down4 hrs 29 mins       ████████████████░░░░░░░░░   64.77 % 
-LunaBin                  2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.36 % 
-GifSaver                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-helium-spammer           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Puppi                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+discord-favorite-gif-down4 hrs 29 mins       ██████████████████████░░░   86.39 % 
+GifSaver                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+LunaBin                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+helium-spammer           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-Linux                    6 hrs 55 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
